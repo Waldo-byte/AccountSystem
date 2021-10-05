@@ -12,6 +12,7 @@
 
 
     <artifactId>AccountSystemWeb</artifactId>
+    <packaging>war</packaging>
 
 
 </project>

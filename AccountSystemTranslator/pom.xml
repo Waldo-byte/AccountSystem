@@ -11,6 +11,7 @@
     </parent>
 
     <artifactId>AccountSystemTranslator</artifactId>
+    <packaging>jar</packaging>
 
 
 

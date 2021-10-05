@@ -11,6 +11,11 @@
     </parent>
 
     <artifactId>AccountSystemRepo</artifactId>
+    <packaging>jar</packaging>
+
+    <dependencies>
+
+    </dependencies>
 
 
 
