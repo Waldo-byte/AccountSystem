@@ -12,4 +12,5 @@
 
     <artifactId>AccountSystemDomain</artifactId>
     <packaging>jar</packaging>
+
 </project>
