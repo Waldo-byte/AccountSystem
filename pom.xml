@@ -12,5 +12,13 @@
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
+    <modules>
+        <module>AccountSystemDomain</module>
+        <module>AccountSystemLogic</module>
+        <module>AccountSystemRepo</module>
+        <module>AccountSystemTranslator</module>
+        <module>AccountSystemWeb</module>
+    </modules>
+    <packaging>pom</packaging>
 
 </project>

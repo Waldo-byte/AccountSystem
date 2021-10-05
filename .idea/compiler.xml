@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AccountSystem" />
+        <module name="AccountSystemDomain" />
+        <module name="AccountSystemTranslator" />
+        <module name="AccountSystemLogic" />
+        <module name="AccountSystemWeb" />
+        <module name="AccountSystemRepo" />
       </profile>
     </annotationProcessing>
   </component>
